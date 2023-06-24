@@ -13,7 +13,7 @@
   <img align="center" alt="Home-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"">          
 </div>
 
-##
+## Entre em contato
 
 <div>
   <a href="https://www.linkedin.com/in/homero-costa-medeiros-887017bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a>
