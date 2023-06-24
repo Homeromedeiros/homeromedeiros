@@ -1,8 +1,9 @@
-## 👋 Olá! Sou Homero Costa Medeiros 
+## 👋 Olá! Sou Homero Costa Medeiros
 
+- 🎓 Formado em Engenharia Mecatrônica, hoje estudando frontend
 - 🔭 Atualmente trabahlo com sistemas CADs
-- 🌱 Estou praticando tecnologia Frontend
-- 🤔 Procuro dicas na área e um primeiro trabalho na área de Frontend
+- 🌱 Estou  praticando tecnologias frontend, portfolio em andamento
+- 🤔 Procurando dicas e um primeiro trabalho nessa área
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Home-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -13,11 +14,12 @@
   <img align="center" alt="Home-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"">          
 </div>
 
-## Entre em contato
+## Entre em contato:
 
 <div>
   <a href="https://www.linkedin.com/in/homero-costa-medeiros-887017bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a>
   <a href="https://www.youtube.com/channel/UC3loJnYWxbKMHZDT4WLQHsg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="mailto:homero.mede@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="homero.mede@gmail.com"/></a>
   <!--
   <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   -->
