@@ -2,8 +2,7 @@
 
 - 🔭 Atualmente trabahlo com sistemas CADs
 - 🌱 Estou praticando tecnologia Frontend
-- 🤔 Procuro dicas na área e um primeiro trabalho na área de Frontend 
-- 📫 Contato profissional: https://www.linkedin.com/in/homero-costa-medeiros-887017bb/
+- 🤔 Procuro dicas na área e um primeiro trabalho na área de Frontend
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Home-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
