@@ -1,4 +1,4 @@
-## Olá! Sou Homero Costa Medeiros 👋
+## 👋 Olá! Sou Homero Costa Medeiros 
 
 - 🔭 Atualmente trabahlo com sistemas CADs
 - 🌱 Estou praticando tecnologia Frontend
