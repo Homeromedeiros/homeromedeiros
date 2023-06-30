@@ -1,4 +1,6 @@
 ## 👋 Olá! Sou Homero Costa Medeiros
+<img align='right' src='https://github.com/Homeromedeiros/portfolio-website/blob/master/src/assets/homero_about.jpg' width='150px'>
+<p>Desenvolvedor Frontend</p>
 
 - 🎓 Formado em Engenharia Mecatrônica, hoje estudando frontend
 - 🔭 Atualmente trabahlo com sistemas CADs
