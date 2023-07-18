@@ -2,7 +2,7 @@
 <img align='right' src='https://github.com/Homeromedeiros/portfolio-website/blob/master/src/assets/homero_about.jpg' width='150px'>
 <p>Desenvolvedor Frontend</p>
 
-- 🎓 Formado em Engenharia Mecatrônica, hoje estudando frontend
+- 🎓 Formado em Engenharia Mecatrônica, hoje estudando full-stack
 - 🔭 Atualmente trabahlo com sistemas CADs
 - 🌱 Estou  praticando tecnologias full-stack, portfolio em andamento
 - 🤔 Procurando dicas e um primeiro trabalho nessa área
