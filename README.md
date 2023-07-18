@@ -4,7 +4,7 @@
 
 - 🎓 Formado em Engenharia Mecatrônica, hoje estudando frontend
 - 🔭 Atualmente trabahlo com sistemas CADs
-- 🌱 Estou  praticando tecnologias frontend, portfolio em andamento
+- 🌱 Estou  praticando tecnologias full-stack, portfolio em andamento
 - 🤔 Procurando dicas e um primeiro trabalho nessa área
 
 <div style="display: inline_block"><br>
